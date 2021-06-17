@@ -1,6 +1,6 @@
 # Product Landing Page
 
-I create this in order to complete Responsive Web Design Challenge from [freecodecamp](https://www.freecodecamp.org/learn/responsive-web-design/)
+I create this in order to complete Responsive Web Design Challenge from [freecodecamp](https://www.freecodecamp.org/learn/responsive-web-design/). This design is inspired mostly by the Tesla product landing webpage.
 
 ## Getting started
 
@@ -20,6 +20,8 @@ I create this in order to complete Responsive Web Design Challenge from [freecod
 
 ## Version History
 
+* 1.1
+    * Add content
 * 1.0
     * Initial release
 
