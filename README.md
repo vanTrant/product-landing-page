@@ -4,6 +4,8 @@ I create this in order to complete Responsive Web Design Challenge from [freecod
 
 ## Getting started
 
+You can preview the page [here](https://codepen.io/vanTrant/full/qBrvymw)
+
 ### Prerequisites
 
 * Any browser will do, but in this case i'm using Chrome.
@@ -20,6 +22,9 @@ I create this in order to complete Responsive Web Design Challenge from [freecod
 
 ## Version History
 
+* 1.2
+    * Stable release
+    * Add more content  
 * 1.1
     * Add content
 * 1.0
