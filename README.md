@@ -14,7 +14,7 @@ You can preview the page [here](https://codepen.io/vanTrant/full/qBrvymw)
 
 1. Clone the repo
   ```sh
-   git clone https://github.com/vanTrant/polban-search.git
+   git clone https://github.com/vanTrant/product-landing-page.git
    ```
    or simply download the code.<br />
 2. Press Ctrl+O and open index.html
