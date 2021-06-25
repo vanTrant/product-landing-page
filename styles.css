@@ -307,15 +307,9 @@ body {
     height: 100vh;
     background: silver;
     background-image: url(https://res.cloudinary.com/dd07dy9m5/image/upload/c_fit,h_768,w_1392/v1623924890/screen-shot-2020-02-18-at-3.41.19-pm-2_k6n4fk.png);
-<<<<<<< HEAD
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-=======
-    background-size: auto 100%;
-    background-position: center;
-    background-repeat: no-repeat;
->>>>>>> 86482e1af52fad63ef84b80a5bf0cd0fd9370b60
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
@@ -342,11 +336,7 @@ body {
 #grid3 {
     grid-row: 3;
     max-width: auto;
-<<<<<<< HEAD
     height: 90vh;
-=======
-    height: 80vh;
->>>>>>> 86482e1af52fad63ef84b80a5bf0cd0fd9370b60
     background: rgb(22, 22, 22);
     display: grid;
     grid-template-columns: 1.5fr 1fr 1fr;
