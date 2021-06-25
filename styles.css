@@ -154,7 +154,7 @@ body {
     background-image: url(https://res.cloudinary.com/dd07dy9m5/image/upload/c_scale,h_720,w_1366/v1623911000/MS-Specs-Hero-Desktop_ekjc85.jpg);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: auto;
+    background-size: cover;
     object-fit:fill;
 
 }
