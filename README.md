@@ -4,7 +4,7 @@ I create this in order to complete Responsive Web Design Challenge from [freecod
 
 ## Getting started
 
-You can preview the page in [Codepen page](https://codepen.io/vanTrant/full/qBrvymw) or in [Github page](https://vantrant.github.io/product-landing-page/)
+You can preview the page at [Github page](https://vantrant.github.io/product-landing-page/)
 
 ### Prerequisites
 
